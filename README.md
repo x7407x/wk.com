@@ -1,1 +1,1 @@
-# wk.com
+[GitHub Pages](https://pages.github.com/)
